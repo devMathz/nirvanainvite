@@ -1,0 +1,35 @@
+{
+  "name": "invite",
+  "version": "1.0.0",
+  "description": "İnvite Discord Bot",
+  "main": "./.data/bot.js",
+  "scripts": {
+    "start": "node ./.data/bot.js"
+  },
+  "author": "Mathz#0007",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "fs": "^0.0.2",
+    "quick.db": "^7.1.2",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "util": "^0.12.3",
+    "parse-ms": "^2.1.0",
+    "node-superfetch": "^0.1.10",
+    "os": "^0.1.1",
+    "moment-duration-format": "^2.3.2",
+    "jimp": "^0.16.1",
+    "figlet": "^1.5.0",
+    "ms": "^2.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "rebels",
+    "discord",
+    "bot"
+  ]
+}
